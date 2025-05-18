@@ -1,0 +1,6 @@
+#!/bin/bash
+
+set -e
+
+ca65 test.asm -o test.o
+ld65 test.o -C test.cfg -o test.bin
