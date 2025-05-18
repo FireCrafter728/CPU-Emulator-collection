@@ -8,8 +8,6 @@
 - CEC-8086: 8086 CPU Emulator
 - CEC-i386: Intel 386 CPU Emulator
 - CEC-x86_64: x86_64 CPU Emulator
-- CEC-M72: M72 Chip emulator(32bit)
-- CEC-M728: M728 Chip emulator(64bit)
 
 ## CEC-6502
 
